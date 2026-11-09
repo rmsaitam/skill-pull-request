@@ -496,8 +496,6 @@ def check_skill(root: Path, report: Report, version: str) -> None:
         report.error("version-mismatch", f"{relative} version does not match {version}.", relative)
     if not frontmatter.get("author"):
         report.error("missing-author", f"{relative} needs an author.", relative)
-    if not frontmatter.get("argument-hint"):
-        report.error("missing-argument-hint", f"{relative} needs an argument hint.", relative)
     for link in LINK_RE.findall(text):
         if link.startswith(("http://", "https://", "#", "mailto:")):
             continue

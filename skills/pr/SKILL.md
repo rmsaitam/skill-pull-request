@@ -1,7 +1,6 @@
 ---
 name: pr
 description: 'Creates, updates, or reviews a GitHub pull request from the current branch. Analyzes the full diff against the base branch, finds the related issue, validates repository state, drafts a structured PR body, and creates or updates the PR with the gh CLI. Use when the user asks to open a PR, create a PR, update a PR description, or invokes /pr.'
-argument-hint: "[--draft] [--base <branch>] [--update] [--save-body [path]]"
 license: MIT
 metadata:
   author: Reginaldo (rmsaitam)
