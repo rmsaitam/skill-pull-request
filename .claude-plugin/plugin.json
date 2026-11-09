@@ -1,0 +1,23 @@
+{
+  "name": "pull-request",
+  "version": "0.1.0",
+  "description": "Creates, updates, or reviews a GitHub pull request from the current branch with a validated, traceable body.",
+  "author": {
+    "name": "Reginaldo (rmsaitam)",
+    "url": "https://github.com/rmsaitam/skill-pull-request"
+  },
+  "homepage": "https://github.com/rmsaitam/skill-pull-request",
+  "repository": "https://github.com/rmsaitam/skill-pull-request",
+  "license": "MIT",
+  "keywords": [
+    "pull-request",
+    "github",
+    "gh-cli",
+    "git",
+    "diff",
+    "issue-tracking",
+    "draft",
+    "review",
+    "codespaces"
+  ]
+}

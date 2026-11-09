@@ -1,0 +1,5 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "pull-request",
+  "description": "Creates, updates, or reviews a GitHub pull request from the current branch with a validated, traceable body."
+}

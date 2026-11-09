@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pull-request",
+  "description": "Pull Request skill for AI coding agents.",
+  "owner": {
+    "name": "Reginaldo (rmsaitam)",
+    "url": "https://github.com/rmsaitam/skill-pull-request"
+  },
+  "plugins": [
+    {
+      "name": "pull-request",
+      "description": "Creates, updates, or reviews a GitHub pull request from the current branch with a validated, traceable body.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "pull-request",
+  "interface": {
+    "displayName": "Pull Request"
+  },
+  "plugins": [
+    {
+      "name": "pull-request",
+      "description": "Creates, updates, or reviews a GitHub pull request from the current branch with a validated, traceable body.",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

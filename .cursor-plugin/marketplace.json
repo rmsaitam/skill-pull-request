@@ -1,0 +1,16 @@
+{
+  "name": "pull-request",
+  "owner": {
+    "name": "Reginaldo (rmsaitam)"
+  },
+  "metadata": {
+    "description": "Pull Request skill for AI coding agents."
+  },
+  "plugins": [
+    {
+      "name": "pull-request",
+      "source": ".",
+      "description": "Creates, updates, or reviews a GitHub pull request from the current branch with a validated, traceable body."
+    }
+  ]
+}
