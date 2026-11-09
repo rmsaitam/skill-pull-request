@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" role="img" aria-label="Pull Request">
+  <rect width="800" height="240" rx="32" fill="#8250DF"/>
+  <circle cx="112" cy="88" r="20" fill="none" stroke="#FFFFFF" stroke-width="14"/>
+  <circle cx="112" cy="172" r="20" fill="none" stroke="#FFFFFF" stroke-width="14"/>
+  <path d="M112 108v44" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="196" cy="172" r="20" fill="none" stroke="#FFFFFF" stroke-width="14"/>
+  <path d="M196 152v-24c0-28-23-51-51-51h-18" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round"/>
+  <path d="M142 53l-20 15 20 15" fill="none" stroke="#2DA44E" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="252" y="122" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="50" font-weight="700">Pull Request</text>
+  <text x="254" y="162" fill="#E4D5FF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">Draft, validate, submit</text>
+</svg>
